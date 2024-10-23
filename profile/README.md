@@ -5,3 +5,5 @@ Climate-Smart Agriculture and Food Systems Initiative is funded by Genome Canada
 Within this GitHub organization we are supporting the work of our researchers for data harmonization, education and training, data governance, and standard development.
 
 Read our [helpful documentation](https://climatesmartagcollab.github.io/Documentation-en/), hosted here in GitHub and providing data management training.
+
+[Discussions](https://github.com/orgs/ClimateSmartAgCollab/discussions)
