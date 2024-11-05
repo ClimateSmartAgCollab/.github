@@ -6,4 +6,4 @@ Within this GitHub organization we are supporting the work of our researchers fo
 
 Read our [helpful documentation](https://climatesmartagcollab.github.io/Documentation-en/), hosted here in GitHub and providing data management training.
 
-Participate in [Discussions](https://github.com/orgs/ClimateSmartAgCollab/discussions) to connect with other ICT groups and the Data Hub team.
+Log in with your GitHub accoiiunt and then participate in [Discussions](https://github.com/orgs/ClimateSmartAgCollab/discussions) to connect with other ICT groups and the Data Hub team. You must be a member of this GitHub organization to see the discussions.
