@@ -6,4 +6,6 @@ Within this GitHub organization we are supporting the work of our researchers fo
 
 Read our [helpful documentation](https://climatesmartagcollab.github.io/Documentation-en/), hosted here in GitHub and providing data management training.
 
+Look at the [schema library](https://climatesmartagcollab.github.io/HUB-Harmonization/) to learn what data your colleagues are collecting and to [add your own data schemas](https://climatesmartagcollab.github.io/Documentation-en/Data_Documentation/semantic_engine.html) to the search.
+
 Log in with your GitHub account and then participate in [discussions](https://github.com/orgs/ClimateSmartAgCollab/discussions) to connect with other ICT groups and the Data Hub team. You must be a member of this GitHub organization to see the discussions.
