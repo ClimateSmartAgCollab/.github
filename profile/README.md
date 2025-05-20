@@ -27,7 +27,7 @@ Log in with your GitHub account and then participate in [discussions](https://fo
 * New standards will be supported by the [Data Harmonizer](https://github.com/cidgoh/DataHarmonizer) in the future as they are developed.
 
 # Liens rapides
-- [Documentation d'apprentissage](https://climatesmartagcollab.github.io/Documentation-en/)
+- [Documentation d'apprentissage](https://climatesmartagcollab.github.io/Documentation-fr/)
 - [Bibliothèque de schémas de données](https://climatesmartagcollab.github.io/HUB-Harmonization/)
 - [Forum de discussion](https://forum.climatesmartagrifood.ca/)
 
