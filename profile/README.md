@@ -4,7 +4,7 @@ EN / FR
 
 - [Learning documentation](https://climatesmartagcollab.github.io/Documentation-en/)
 - [Data schema library](https://climatesmartagcollab.github.io/HUB-Harmonization/)
-- [Discuss forum](https://forum.climatesmartagrifood.ca/)
+- [Discussion forum](https://forum.climatesmartagrifood.ca/)
 
 # Climate-Smart Data Collaboration Centre
 
@@ -25,6 +25,12 @@ Log in with your GitHub account and then participate in [discussions](https://fo
 * Discover what data other teams are collecting - browse the [Schema library](https://climatesmartagcollab.github.io/HUB-Harmonization/).
 * See an opportunity for similar data collection? Add it to the [discussions](https://forum.climatesmartagrifood.ca/). The Data Hub will help with data standards development.
 * New standards will be supported by the [Data Harmonizer](https://github.com/cidgoh/DataHarmonizer) in the future as they are developed.
+
+# Liens rapides
+- [Documentation d'apprentissage](https://climatesmartagcollab.github.io/Documentation-en/)
+- [Bibliothèque de schémas de données](https://climatesmartagcollab.github.io/HUB-Harmonization/)
+- [Forum de discussion](https://forum.climatesmartagrifood.ca/)
+
 
 # Collaboration GitHub pour l'agriculture intelligente face au climat
 
