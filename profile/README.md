@@ -5,6 +5,7 @@ EN / FR
 - [AgriDataGuidebook](https://climatesmartagcollab.github.io/Documentation-en/)
 - [Data schema library](https://climatesmartagcollab.github.io/HUB-Harmonization/)
 - [Discussion forum](https://forum.climatesmartagrifood.ca/)
+- [climatesmartagrifood.ca](https://climatesmartagrifood.ca)
 
 # Climate-Smart Data Collaboration Centre
 
@@ -30,7 +31,7 @@ Log in with your GitHub account and then participate in [discussions](https://fo
 - [RéférentielAgriData](https://climatesmartagcollab.github.io/Documentation-fr/)
 - [Bibliothèque de schémas de données](https://climatesmartagcollab.github.io/HUB-Harmonization/)
 - [Forum de discussion](https://forum.climatesmartagrifood.ca/)
-
+- [climatesmartagrifood.ca](https://climatesmartagrifood.ca)
 
 # Collaboration GitHub pour l'agriculture intelligente face au climat
 
